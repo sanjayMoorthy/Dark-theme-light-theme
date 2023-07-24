@@ -1,0 +1,62 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* for structuring */
+
+.top_section{
+    display: flex;
+    justify-content: space-between;
+}
+.paragraph {
+    width: 505px;
+    margin: auto;
+    
+}
+.content1{
+    margin-top: 10px;
+    line-height: 25px;
+}
+button.button {
+    margin-right: 210px;
+    margin-top: 10px;
+}
+h1 {
+    margin-left: 410px;
+}
+h5 {
+    margin-top: 10px;
+}
+p {
+    margin-top: 10px;
+}
+
+/* for coloring */
+button{
+    background-color: deeppink;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+h2 {
+    color: deeppink;
+}
+h5 {
+    margin-top: 10px;
+    color: grey;
+}
+
+
+/* for togle */
+.active{
+    background-color: black;
+    color: white;
+}
+.show{
+    color: black;
+}
+.btn{
+    color:black;
+}
